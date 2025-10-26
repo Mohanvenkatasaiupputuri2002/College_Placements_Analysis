@@ -1,6 +1,6 @@
 # Statistics and Trends Assignment
-This is the template repository for the statistics and trends assignment.
-You should create a personal repository from this template repository
-(there is a green box with a link in the top right).
-Ensure that the file `statistics_and_trends.py` is present and functional, with your downloaded data
-in the `data.csv` file.
+Introduction:
+The College Placement Analysis project investigates how various personal and academic characteristics impact students' placement prospects. It looks for 
+important trends using information on IQ, CGPA, communication abilities, internships, and other characteristics. The project determines the key factors that 
+lead to successful placements by using statistical techniques and visualizations. Colleges and students can better understand which skills and performances 
+enhance employability with the help of these insights.
